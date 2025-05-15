@@ -9,7 +9,7 @@ und zum **Einfügen digitaler Signaturen** in PDF-Dokumente. Es richtet sich an 
 
 - **Name:** TEXT_FIRMA  
 - **Version:** 0.0.1  
-- **Status:** 🛠️ In früher Entwicklung  
+- **Status:** In früher Entwicklung  
 - **Ziel:** Automatisierte Bearbeitung und Signierung von Office-Dokumenten
 
 ---
