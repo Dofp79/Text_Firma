@@ -35,7 +35,7 @@ ________________________________________
 ## 📫 Kontakt
 
 Fragen oder Feedback?  
-**Doniman F. Peña Parra**
+**Doniman F. Peña Parra** 
 
 - 🌐 [GPT-Link zur Projektunterstützung](https://chatgpt.com/g/g-vlwmxompx-python-zauberer)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/doniman-francisco-pe%C3%B1a-parra-609263232/)
